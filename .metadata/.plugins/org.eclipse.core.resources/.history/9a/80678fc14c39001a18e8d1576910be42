@@ -1,0 +1,15 @@
+
+public class PrimType {
+
+	
+	public static void main(String[] args) {
+		// Numeric data primitive type
+		int integer  = 2; 
+		long longInter = 2020202020202L; 
+		short shortInteger = 2020;
+		byte byteInteger = 120; 
+		
+
+	}
+
+}

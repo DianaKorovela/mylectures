@@ -1,0 +1,32 @@
+public class IfElseAndTeranaryOperator {
+
+	public static void main(String[] args) {
+		boolean test = true;
+		int num = 2;
+		if (test) {
+			System.out.println("Test pass true");
+		} else {
+			System.out.println("Test pass false");
+
+			String stringExp = "Te ir string vērtība";
+		}
+		String res = (test) ? "Test pass ture" : "Test pass false";
+		System.out.println(res);
+		
+		
+		
+		
+		
+		int num1 = 5;
+		int num2 = 10;
+		int result; 
+		
+		result = (num1 > num2) ? (num1 + num2) : (num1 - num2);
+		
+		System.out.println(result);
+		
+		
+
+	}
+
+}

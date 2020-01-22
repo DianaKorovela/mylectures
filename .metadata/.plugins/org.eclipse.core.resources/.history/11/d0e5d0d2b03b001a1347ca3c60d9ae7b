@@ -1,0 +1,20 @@
+
+public class ArraysSumForLoop {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		int [] marks = {76, 23, 42, 100, 99, 10, 56}; 
+		// Sum all values in arrays
+		// Print in console
+		int result = 10; 
+		int test = 90;
+		result = 200; 
+		
+		System.out.println("result value: "+result);
+		System.out.println(marks[0]+marks[1]);
+		
+	}
+
+}

@@ -1,0 +1,21 @@
+
+public class Calculator {
+
+	
+	public static void main(String[] args) {
+		char operatorMath = '/';
+		
+		if(operatorMath == '/'){
+			System.out.println("TRUE");
+		}else{
+			System.out.println("FALSE");
+		}
+		
+		
+		
+		
+		
+
+	}
+
+}
