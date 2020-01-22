@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+
+public class ScannerCalculator {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		
+		int num1 = 55;
+		int num2 = 60; 
+		int result = num1 + num2; 
+		char add = '+'; 
+		
+		
+		
+		//System.out.println(result = num1 + num2);
+
+	}
+
+}
