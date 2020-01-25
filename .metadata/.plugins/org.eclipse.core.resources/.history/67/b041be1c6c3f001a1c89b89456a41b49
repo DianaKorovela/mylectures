@@ -1,0 +1,17 @@
+package lv.dianalearnstring;
+
+public class TestStringClass {
+
+	public static void main(String[] args) {
+
+		String str = "Index";
+		String strClass = new String(str);
+
+		System.out.println(str);
+		System.out.println("String like obj "+strClass);
+
+
+
+	}
+
+}

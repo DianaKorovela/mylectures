@@ -1,0 +1,14 @@
+package lv.diana;
+
+import lv.diana.player.FootballPlayer;
+
+public class TestJava {
+	
+	public static void main(String[] args) {
+		FootballPlayer player = new FootballPlayer();
+		
+		System.out.println.getName();
+		
+	}
+
+}

@@ -1,0 +1,12 @@
+package lv.diana.player;
+
+public class FootballPlayer {
+
+	String position;
+	int shirtNumber;
+	boolean build; 
+	long height; 
+	int weight; 
+	
+	
+}
