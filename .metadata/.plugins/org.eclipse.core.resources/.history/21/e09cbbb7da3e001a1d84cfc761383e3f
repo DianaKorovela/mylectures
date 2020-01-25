@@ -1,0 +1,10 @@
+package lv.diana.learnjavaclass;
+
+public class Box { // Box is object
+	double with;
+	double height = 1.70;
+	double depth; 
+	
+	
+
+}

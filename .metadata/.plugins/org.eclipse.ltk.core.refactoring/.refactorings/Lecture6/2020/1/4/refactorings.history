@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;lv.diana.RefractorMethod&apos; to &apos;RefactorMethod&apos;&#x0A;- Original project: &apos;Lecture6&apos;&#x0A;- Original element: &apos;lv.diana.RefractorMethod&apos;&#x0A;- Renamed element: &apos;lv.diana.RefactorMethod&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;RefractorMethod&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;lv.diana{RefractorMethod.java[RefractorMethod" matchStrategy="1" name="RefactorMethod" qualified="false" references="true" similarDeclarations="false" stamp="1579890006390" textual="false" version="1.0"/>
+</session>

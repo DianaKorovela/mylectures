@@ -1,0 +1,13 @@
+package lv.diana.learnjavaclass;
+
+public class TestJavaProgramm {
+
+	public static void main(String[] args) {
+		Box boxObject = new Box(); // Constructor default 
+		
+		boxObject.height; 
+		
+
+	}
+
+}

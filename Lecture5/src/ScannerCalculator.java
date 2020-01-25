@@ -19,7 +19,7 @@ public class ScannerCalculator {
 		
 		if(operatorSymbol.equals("+"));{
 		result = num1 + num2; 
-		}else if{(operatorSymbol.equals("/"));
+//	}else if{(operatorSymbol.equals("/"));
 		result = num1 / num2;
 		
 		//if(addition.equals("+")){

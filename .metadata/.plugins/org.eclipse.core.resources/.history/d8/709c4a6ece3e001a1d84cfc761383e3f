@@ -1,0 +1,24 @@
+package lv.diana;
+
+public class LearnMethodsWithTypes {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		double area = getArea();
+		System.out.println();
+
+	}
+
+	public static double getArea() {
+		double num1 = 20.3;
+		double num2 = 10.00;
+		double result = num1 * num2; 
+		return result;
+		
+	}
+	
+	
+
+}
