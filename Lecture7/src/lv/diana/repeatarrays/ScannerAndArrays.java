@@ -1,5 +1,6 @@
 package lv.diana.repeatarrays;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class ScannerAndArrays {
@@ -17,7 +18,11 @@ public class ScannerAndArrays {
 		System.out.println("Input second array value");
 		arr[1] = sc.nextInt();
 
-		System.out.println(arr[0]+ ", "+arr[1]);
+	//	System.out.println(arr[0]+ ", "+arr[1]);
+		
+		System.out.println("" +Arrays.toString(arr));
+		
+		
 		
 	}
 

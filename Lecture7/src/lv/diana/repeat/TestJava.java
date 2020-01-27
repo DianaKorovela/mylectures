@@ -13,11 +13,12 @@ public class TestJava {
 		int inputvalue;
 
 		while (input.hasNextInt()){
+			if (input.hasNextInt()); // Enter int and char 
 		inputvalue = input.nextInt();
 		System.out.println("Assigne to variable with type int: "+inputvalue);
+		
 		}
-		
-		
+
 
 	//	System.out.println("Your input value is " + inputvalue);
 		

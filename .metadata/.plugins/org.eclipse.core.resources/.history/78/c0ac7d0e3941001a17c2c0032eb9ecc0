@@ -1,0 +1,13 @@
+package lv.diana;
+
+import lv.diana.figure.Rectangle;
+
+public class TestFigure {
+
+
+	public static void main(String[] args) {
+		Rectangle rectangle = new Rectangle; 
+		
+	}
+
+}
