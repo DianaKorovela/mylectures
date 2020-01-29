@@ -1,0 +1,5 @@
+package lv.diana.user;
+
+public class Student {
+
+}

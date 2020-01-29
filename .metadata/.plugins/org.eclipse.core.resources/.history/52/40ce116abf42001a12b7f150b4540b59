@@ -1,0 +1,22 @@
+package lv.diana;
+
+import lv.diana.graph.Point2D;
+
+public class TestInheritance {
+
+	public static void main(String[] args) {
+		// TIPS // MAINIGAIS
+		Point2D point = new Point2D();
+		System.out.println(point.toString()); // 1 CONST
+		Point2D pointXY = new Point2D(10, -2);
+
+		System.out.println(pointXY.toString()); // 2 CONST
+		// toString var nerakstīt jo jau tā ir izveidota
+
+		pointXY.setX(8);
+		pointXY.setY(-6);
+		System.out.println(pointXY);
+
+	}
+
+}

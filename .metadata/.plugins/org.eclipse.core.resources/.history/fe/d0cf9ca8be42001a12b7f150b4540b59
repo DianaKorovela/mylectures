@@ -1,0 +1,16 @@
+package lv.diana;
+
+import lv.diana.graph.Point2D;
+
+public class TestInheritance {
+
+	public static void main(String[] args) {
+		// TIPS // MAINIGAIS 
+		Point2D point = new Point2D();
+		System.out.println(point.toString());
+		
+	
+		
+	}
+
+}

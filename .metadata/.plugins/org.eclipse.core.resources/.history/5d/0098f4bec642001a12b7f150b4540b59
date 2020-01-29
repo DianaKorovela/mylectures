@@ -1,0 +1,23 @@
+package lv.diana.user;
+
+import lv.diana.graph.Point2D;
+
+public class Student extends Person {
+	
+	private int numCourses;
+	private String [] courses;
+	private int [] grades; 
+
+	public Student(String name, String address){
+		super(name, address);
+		
+	}
+		
+		public void addCourseGrade(String course, int grade){
+			this.courses = courses;
+			
+			
+		
+	}
+	
+}
