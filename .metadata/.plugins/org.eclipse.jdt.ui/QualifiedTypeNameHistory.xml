@@ -10,4 +10,14 @@
 <fullyQualifiedTypeName name="lv.diana.graph.Point4D"/>
 <fullyQualifiedTypeName name="lv.diana.user.Person"/>
 <fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="lv.diana.encapsulation.Student"/>
+<fullyQualifiedTypeName name="lv.diana.inheritance.Golf"/>
+<fullyQualifiedTypeName name="lv.diana.polyMorphism.Animal"/>
+<fullyQualifiedTypeName name="lv.diana.polyMorphism.Dog"/>
+<fullyQualifiedTypeName name="lv.diana.polyMorphism.Cat"/>
+<fullyQualifiedTypeName name="lv.diana.interfaces.Rectangle"/>
+<fullyQualifiedTypeName name="java.awt.Shape"/>
+<fullyQualifiedTypeName name="lv.diana.interfaces.Shape"/>
+<fullyQualifiedTypeName name="lv.diana.interfaces.Triangle"/>
+<fullyQualifiedTypeName name="lv.diana.Teacher"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,18 @@
+package lv.diana;
+
+import java.util.ArrayList;
+public class TestArraysWithObjects {
+
+	public static void main(String[] args) {
+		Integer intObj = 40; 
+		
+		System.out.println(intObj);
+		
+				
+// ArrayList <int> cars = new ArrayList <>();
+		
+	
+
+	}
+
+}

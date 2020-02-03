@@ -1,0 +1,26 @@
+package lv.diana;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+
+public class TestScannerInputArray {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		int[] arr = new int[1];
+
+		System.out.println("Name");
+		// arr[0] = sc.nextLine();
+		String name = sc.nextLine();
+		System.out.println(" ");
+		// arr[1] = sc.nextLine();
+
+		System.out.println("" + Arrays.toString(arr));
+		// System.out.println(arr[0]+ ", "+arr[1]);
+
+		//String name = sc.nextLine();
+
+	}
+
+}
