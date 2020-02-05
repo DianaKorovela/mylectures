@@ -1,0 +1,21 @@
+package lv.diana.module.test;
+
+import lv.diana.module.League;
+import lv.diana.module.Team;
+
+
+public class TestTeamAndLeague {
+
+	public static void main(String[] args) {
+
+		Team ska = new Team("SKA");
+		Team cska = new Team("CSKA");
+		//arr.add(ska);
+
+		League khl = new League("KHL");
+		khl.nameOfTeams.add(cska);
+	//	khl.setNameOfTeams(arr);
+
+	}
+
+}

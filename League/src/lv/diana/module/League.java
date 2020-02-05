@@ -25,6 +25,11 @@ public class League {
 	public void setNameOfTeams(ArrayList<Team> nameOfTeams) {
 		this.nameOfTeams = nameOfTeams;
 	}
+	
+	public void recordWinAndLoss(Team winner, Team loser){
+		winner.setWins(1);
+		loser.setLoses(1); 
+	}
 
 	@Override
 	public String toString() {

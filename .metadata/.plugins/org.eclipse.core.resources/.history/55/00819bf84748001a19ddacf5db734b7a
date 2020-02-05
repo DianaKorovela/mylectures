@@ -1,0 +1,13 @@
+package diana.lv;
+
+public class TestExceptionHandling extends Objecte {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
