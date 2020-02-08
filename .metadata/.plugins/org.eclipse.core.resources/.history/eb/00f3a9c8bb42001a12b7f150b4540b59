@@ -1,9 +1,0 @@
-package lv.diana.graph;
-
-public class Point3D {
-	private int z;
-	
-	
-	
-
-}

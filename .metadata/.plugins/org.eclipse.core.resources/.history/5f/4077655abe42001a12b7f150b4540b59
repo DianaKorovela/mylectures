@@ -1,9 +1,0 @@
-package lv.diana;
-
-public class TestInheritance {
-
-	public static void main(String[] args) {
-		
-	}
-
-}

@@ -1,0 +1,18 @@
+package lv.diana.inputoutput;
+
+import java.io.InputStream;
+import java.io.OutputStream;
+
+public class TestReadFile {
+
+	public static void main(String[] args) {
+		InputStream inputSream;
+		OutputStream outputStream; 
+		int c; 
+		final int EDF = -1; 
+		
+		
+
+	}
+
+}

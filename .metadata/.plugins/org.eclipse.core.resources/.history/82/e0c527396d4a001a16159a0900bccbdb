@@ -1,0 +1,17 @@
+package lv.diana.inputoutput;
+
+import java.io.*;
+
+public class TestChangeStringToFile {
+
+	
+	public static void main(String[] args) {
+		String defaultStr = "Dear user userName";
+		
+		String lastString = defaultStr.replace("userName", "");
+		
+		System.out.println(defaultStr+ "Diana");
+
+	}
+
+}
