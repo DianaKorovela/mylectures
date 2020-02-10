@@ -1,0 +1,37 @@
+package lv.diana.module.test;
+
+import java.util.ArrayList;
+
+import lv.diana.module.League;
+import lv.diana.module.Team;
+
+
+public class TestTeamAndLeague {
+
+	public static void main(String[] args) {
+		
+		ArrayList<Team> arrTeam = new ArrayList<>();
+		Team ska = new Team("SKA");
+		Team cska = new Team("CSKA");
+		Team dinamo = new Team("DINAMO");
+		arrTeam.add(ska);
+		arrTeam.add(cska);
+		arrTeam.add(dinamo);
+		System.out.println("Team total points: "+ska.totalPoints());
+		
+		League khl = new League("KHL");
+//		khl.nameOfTeams.add(ska);
+//		khl.nameOfTeams.add(cska);
+		khl.recordWinAndLoss(ska, dinamo);
+		khl.recordWinAndLoss(ska, cska);
+		
+		khl.recordTies(cska, dinamo); 
+		
+		khl.setNameOfTeams(arrTeam);
+		
+		System.out.println("Team SKA total points: "+ska.totalPoints());
+		System.out.println(khl.toString());
+	}
+
+
+}
