@@ -1,0 +1,8 @@
+package lv.diana;
+
+public class TestOOP {
+
+	public static void main(String[] args) {
+
+	}
+}

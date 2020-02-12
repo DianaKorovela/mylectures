@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;lv.diana.repeatJavaClassOOP.MyClassConstructor.modelYear&apos; in &apos;lv.diana.repeatJavaClassOOP.MyClassConstructor&apos;&#x0A;- Original project: &apos;Lecture14&apos;&#x0A;- Original element: &apos;lv.diana.repeatJavaClassOOP.MyClassConstructor.modelYear&apos;&#x0A;- Getter method name: &apos;getModelYear&apos;&#x0A;- Setter method name: &apos;setModelYear&apos;&#x0A;- Field visibility: &apos;public&apos;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;modelYear&apos;" flags="589830" getter="getModelYear" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;lv.diana.repeatJavaClassOOP{MyClassConstructor.java[MyClassConstructor^modelYear" insertion="2" setter="setModelYear" stamp="1581534576360" version="1.0" visibility="1"/>
+</session>

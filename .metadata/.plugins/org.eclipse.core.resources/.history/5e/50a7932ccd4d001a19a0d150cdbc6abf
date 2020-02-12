@@ -1,0 +1,7 @@
+package lv.diana.repeatJavaClassOOP;
+
+abstract class AbstractClass {
+	
+	
+
+}

@@ -1,0 +1,14 @@
+package lv.diana.repeatJavaClassOOP;
+
+public class ImplemetInterface implements InterfaceClass {
+
+	public void sendEmail() {
+		System.out.println("email@email.com");
+		
+	}
+
+	public int sendEmailCount() {
+		return 0;
+	}
+
+}

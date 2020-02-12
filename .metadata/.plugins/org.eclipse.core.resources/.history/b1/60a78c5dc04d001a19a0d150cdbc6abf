@@ -1,0 +1,26 @@
+package lv.diana.repeatJavaClassOOP;
+
+public class MyClassMethods {
+
+	public static void myMethod() {
+
+		System.out.println("Hello Diana");
+
+	}
+
+	public String myStringMethod() {
+
+		myMethod();
+
+		return "Done";
+	}
+	
+	
+
+	public double returnDouble() {
+		return 0;
+	}
+	
+
+
+}

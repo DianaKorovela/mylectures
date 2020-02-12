@@ -1,0 +1,18 @@
+package lv.diana;
+
+import lv.diana.repeatJavaClassOOP.MyClass;
+
+public class TestOOP {
+
+	public static void main(String[] args) {
+		MyClass newObj = new MyClass(); 
+		MyClass newObj2 = new MyClass(); 
+		String strObj = "hello";
+		String strObj2 = "hello"; 
+		
+		System.out.println(newObj.equals(newObj2));
+		System.out.println(strObj.equals(strObj2)); // Use this to compare OBJ instead of == 
+		
+		System.out.println(newObj.x);
+	}
+}
